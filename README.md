@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quarktizer
 - 👀 I’m interested in Mathematics, C, and Robotics
-- 🌱 I’m currently learning C and Robotics
+- 🌱 I’m currently learning C, Algebra and Robotics
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
